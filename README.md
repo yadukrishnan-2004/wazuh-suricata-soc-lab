@@ -228,7 +228,7 @@ explicit authorization.
 
 ## 👤 Author
 
-**\[Your Name\]**
+Yaukrishnan K
 
 Cybersecurity / SOC Lab Project
 
